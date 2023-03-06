@@ -1,3 +1,4 @@
+![](https://github.com/ABAmbros/Shark_Attacks_EDA/blob/master/header_sharks.jpg)
 # EDA Sharks-Attacks
 ----------------------------------------------------------------------------------------------
 
